@@ -4,7 +4,7 @@
 	- $ virtualenv venv
 2. venv 환경 접근
 	- $ source venv/bin/activate
-3. 패키지 설치
+3. 패키지 설치 (python3.8)
 	- (venv) pip3 install -r requirements.txt
 4. jupyter notebook 실행
 	-(venv) $ jupyter notebook
