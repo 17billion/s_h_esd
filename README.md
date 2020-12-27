@@ -5,7 +5,7 @@
 2. venv 환경 접근
 	- $ source venv/bin/activate
 3. 패키지 설치
-	- (venv) pip install -r requirements.txt
+	- (venv) pip3 install -r requirements.txt
 4. jupyter notebook 실행
 	-(venv) $ jupyter notebook
 5. 실습파일 불러오기
